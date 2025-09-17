@@ -15,36 +15,23 @@
 ![](w01-p2-1.png)
 
 ```
-
+6143061 zero2005x       Wed Sep 17 19:58:02 2025 +0800  Add .gitignore and initial markdown files with images for W01 assignments
+6abd201 zero2005x       Wed Sep 17 19:19:28 2025 +0800  first commit
 ```
 
-### W01-P2:
+W01-P2: Use vite to create a new React app
 
-![](w01-p2.png)
+#### => show how the index.html page being rendered
 
-```
+![](w01-p3-1.png)
 
-```
+![](w01-p3-2.png)
 
-### W01-P3:
+![](w01-p3-3.png)
 
-![](w01-p3.png)
+#### => share the size of node module
 
-```
-
-```
-
-### W01-P4:
-
-![](w01-p4.png)
-
-```
-
-```
-
-### W01-P5:
-
-![](w01-p5.png)
+![](w01-p4-1.png)
 
 ```
 
@@ -53,3 +40,5 @@
 ### W01-logs: git logs of W01
 
 ![](w01-logs.png)
+
+![](w01_shared.png)
