@@ -19,7 +19,7 @@
 6abd201 zero2005x       Wed Sep 17 19:19:28 2025 +0800  first commit
 ```
 
-W01-P2: Use vite to create a new React app
+### W01-P2: Use vite to create a new React app
 
 #### => show how the index.html page being rendered
 
@@ -34,7 +34,7 @@ W01-P2: Use vite to create a new React app
 ![](w01-p4-1.png)
 
 ```
-
+670d954 zero2005x       Wed Sep 17 20:25:08 2025 +0800  W01-P2: Use vite to create a new React app
 ```
 
 ### W01-logs: git logs of W01
