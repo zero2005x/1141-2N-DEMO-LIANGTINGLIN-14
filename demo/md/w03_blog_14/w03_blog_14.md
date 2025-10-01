@@ -6,19 +6,19 @@
 
 ![](w03-p1-1.png)
 
+![](w03-p1-3.png)
+
 #### => route /static_xx for BlogStaticPage_xx
 
 ![](w03-p1-2.png)
 
 ```
-
+56ea023 zero2005x       Wed Oct 1 19:25:15 2025 +0800    W03-P1: Create router in App_xx.jsx
 ```
 
-### W03-P2:
+### W03-P2: Implement route /static_14 for BlogStaticPage_14
 
-#### =>
-
-![](w03-p2-1.png)
+![](w03-p2.png)
 
 ```
 
