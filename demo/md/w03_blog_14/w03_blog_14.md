@@ -21,6 +21,20 @@
 ![](w03-p2.png)
 
 ```
+b7cea16 zero2005x       Wed Oct 1 19:49:20 2025 +0800   W03-P2: Implement route /static_14 for BlogStaticPage_14
+```
+
+### W03-P3: Implement route /localjson_14 by showing blogs from local json
+
+#### => Chrome demo using React DevTools
+
+![](w03-p3-1.png)
+
+#### => code for BlogLocalJson_xx
+
+![](w03-p3-2.png)
+
+```
 
 ```
 
