@@ -35,10 +35,12 @@ b7cea16 zero2005x       Wed Oct 1 19:49:20 2025 +0800   W03-P2: Implement route 
 ![](w03-p3-2.png)
 
 ```
-
+f2249ef zero2005x       Wed Oct 1 20:37:16 2025 +0800   W03-P3: Implement route /localjson_14 by showing blogs from local json
 ```
 
 ## W03-logs: git logs of w03
+
+![](w03-logs.png)
 
 ```
 
