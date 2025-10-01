@@ -22,6 +22,8 @@
 
 ![](w02-p2-1.png)
 
-```
+![](w02-p2-2.png)
 
+```
+4e449de zero2005x       Wed Sep 24 20:47:27 2025 +0800  W02-P2: refine code in W01-P1
 ```
