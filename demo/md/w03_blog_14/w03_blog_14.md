@@ -43,5 +43,5 @@ f2249ef zero2005x       Wed Oct 1 20:37:16 2025 +0800   W03-P3: Implement route 
 ![](w03-logs.png)
 
 ```
-
+c93f559 zero2005x       Wed Oct 1 20:41:03 2025 +0800   fix: Update .gitignore to include additional directories and files
 ```
