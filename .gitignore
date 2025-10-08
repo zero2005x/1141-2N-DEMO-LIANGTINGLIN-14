@@ -1,7 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+node_modules/
+**/node_modules/
 /.pnp
 .pnp.js
 
@@ -11,6 +12,8 @@
 # production
 /build
 /dist
+**/dist/
+**/dist-ssr/
 
 # misc
 .DS_Store
@@ -20,10 +23,15 @@
 .env.test.local
 .env.production.local
 
+# Environment files (保留 .env.local 作為範例)
+**/.env
+!**/.env.local
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+lerna-debug.log*
 
 # Next.js
 /.next/
@@ -37,7 +45,6 @@ dist-ssr
 .vscode/*
 !.vscode/extensions.json
 .idea
-.DS_Store
 *.suo
 *.ntvs*
 *.njsproj
@@ -50,6 +57,7 @@ Desktop.ini
 
 # TypeScript
 *.tsbuildinfo
+next-env.d.ts
 
 # Optional npm cache directory
 .npm
@@ -63,16 +71,24 @@ Desktop.ini
 # Output of 'npm pack'
 *.tgz
 
-# dotenv environment variable files
-.env*.local
-
 # Vercel
 .vercel
 
 # turbo
 .turbo
 
-# Lock files (optional, uncomment if you want to ignore them)
-# package-lock.json
-# yarn.lock
-# pnpm-lock.yaml
+# Lock files (建議保留 package-lock.json 以確保依賴一致性)
+# 如果團隊使用不同的套件管理器，可以忽略其他的 lock 檔案
+yarn.lock
+pnpm-lock.yaml
+
+# 圖片和媒體檔案 (如果不需要版控的話)
+# **/*.jpg
+# **/*.png
+# **/*.gif
+
+# Sass cache
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
