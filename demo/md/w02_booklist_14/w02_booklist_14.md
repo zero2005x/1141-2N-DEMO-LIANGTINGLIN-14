@@ -1,4 +1,6 @@
 [Github URL](https://github.com/zero2005x/1141-2N-DEMO-LIANGTINGLIN-14)
+[Github URL for Vercel](https://github.com/zero2005x/114_2N_demo_vercel_liangtinglin)
+[Vercel URL](https://114-2-n-demo-vercel-liangtinglin.vercel.app/)
 
 ### W02-P1: App_xx with 6 books
 

@@ -1,4 +1,6 @@
 [Github URL](https://github.com/zero2005x/1141-2N-DEMO-LIANGTINGLIN-14)
+[Github URL for Vercel](https://github.com/zero2005x/114_2N_demo_vercel_liangtinglin)
+[Vercel URL](https://114-2-n-demo-vercel-liangtinglin.vercel.app/)
 
 ### W05-P1: Create Navbar_14 using styled components, and show BlogNodePage_14
 
@@ -11,22 +13,23 @@
 ![](W05-p1-2.png)
 
 ```
-
+90c1f2d zero2005x       Wed Oct 15 19:19:24 2025 +0800  W05-P1: Create Navbar_14 using styled components, and show BlogNodePage_14
 ```
 
-### W05-P2:
+### W05-P2: Deploy to Vercel
 
-#### =>
+#### => Show BlogLocalJson in Vercel
 
 ![](W05-p2-1.png)
 
-#### =>
+#### => Github repo with Vercel link
 
 ![](W05-p2-2.png)
 
-#### =>
+#### => Github demo vercel repo and Vercel URL
 
-![](W05-p2-3.png)
+[Github URL for Vercel](https://github.com/zero2005x/114_2N_demo_vercel_liangtinglin)
+[Vercel URL](https://114-2-n-demo-vercel-liangtinglin.vercel.app/)
 
 ```
 
