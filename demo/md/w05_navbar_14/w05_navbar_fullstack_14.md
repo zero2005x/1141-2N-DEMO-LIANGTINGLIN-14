@@ -48,12 +48,14 @@ f7f51a9 zero2005x       Wed Oct 15 20:43:33 2025 +0800  W05-P3: Use tailwind css
 ![](W05-p4.png)
 
 ```
-
+d3961f1 zero2005x       Wed Oct 15 21:11:05 2025 +0800  W05-P4: Show BookListPage_14 using styled components
 ```
 
 ## W05-logs:
 
 ![](W05-logs.png)
+
+![](W05-logs-1.png)
 
 ```
 
