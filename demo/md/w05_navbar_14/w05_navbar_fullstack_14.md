@@ -32,18 +32,12 @@
 [Vercel URL](https://114-2-n-demo-vercel-liangtinglin.vercel.app/)
 
 ```
-
+3ae99e0 zero2005x       Wed Oct 15 19:51:00 2025 +0800  W05-P2: Deploy to Vercel
 ```
 
-### W05-P3:
+### W05-P3: Use tailwind css to show HomePage_14 in Vercel
 
-#### =>
-
-![](W05-p3-1.png)
-
-#### =>
-
-![](W05-p3-2.png)
+![](W05-p3.png)
 
 ```
 
