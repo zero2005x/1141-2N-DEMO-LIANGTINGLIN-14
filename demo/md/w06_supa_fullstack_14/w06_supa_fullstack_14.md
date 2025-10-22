@@ -8,7 +8,6 @@
 
 ```
 733e966 zero2005x       Wed Oct 22 19:12:56 2025 +0800  W06-P1: share URLof Github demo Vercel
-
 ```
 
 ### W06-P2: Supabase settings in Node.js, can connect to Supabase to get blogs data.
@@ -25,16 +24,23 @@
 
 ![](W06-p2-3.png)
 
-[Github URL for Vercel](https://github.com/zero2005x/114_2N_demo_vercel_liangtinglin)
-[Vercel URL](https://114-2-n-demo-vercel-liangtinglin.vercel.app/)
-
+```
+b3c779d zero2005x       Wed Oct 22 19:15:16 2025 +0800  W06-P2: Supabase settings in Node.js, can connect to Supabase to get blogs data.
 ```
 
-```
+### W06-P3: Use Supabase client to get 9 blogs data
 
-### W06-P3:
+#### => show API keys in Supabase
 
-![](W06-p3.png)
+![](w06-p3-1.png)
+
+#### => Supabase client code
+
+![](w06-p3-2.png)
+
+#### => Use BlogSupaPage_14.jsx to get blogs data from Supabase
+
+![](w06-p3-3.png)
 
 ```
 
