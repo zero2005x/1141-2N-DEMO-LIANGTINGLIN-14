@@ -57,7 +57,7 @@ af1b374 zero2005x       Wed Oct 22 20:08:52 2025 +0800  W06-P3: Use Supabase cli
 ![](w06-p4-2.png)
 
 ```
-
+bc05508 zero2005x       Wed Oct 22 21:12:29 2025 +0800  W06-P4: Implement Tutorial T11_14 and T12_14
 ```
 
 ## W06-logs:
