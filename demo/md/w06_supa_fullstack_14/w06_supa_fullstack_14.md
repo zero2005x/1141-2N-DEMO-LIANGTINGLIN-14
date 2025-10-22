@@ -43,12 +43,18 @@ b3c779d zero2005x       Wed Oct 22 19:15:16 2025 +0800  W06-P2: Supabase setting
 ![](w06-p3-3.png)
 
 ```
-
+af1b374 zero2005x       Wed Oct 22 20:08:52 2025 +0800  W06-P3: Use Supabase client to get 9 blogs data
 ```
 
-### W06-P4:
+### W06-P4: Implement Tutorial T11_14 and T12_14
 
-![](W06-p4.png)
+#### => show code for T12_xx
+
+![](w06-p4-1.png)
+
+#### => Chrome result
+
+![](w06-p4-2.png)
 
 ```
 
@@ -57,8 +63,6 @@ b3c779d zero2005x       Wed Oct 22 19:15:16 2025 +0800  W06-P2: Supabase setting
 ## W06-logs:
 
 ![](W06-logs.png)
-
-![](W06-logs-1.png)
 
 ```
 
