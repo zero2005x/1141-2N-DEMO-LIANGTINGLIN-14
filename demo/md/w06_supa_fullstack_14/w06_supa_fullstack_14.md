@@ -4,26 +4,24 @@
 
 ### W06-P1: share URLof Github demo Vercel
 
-#### =>
-
 ![](W06-p1.png)
 
 ```
-
+733e966 zero2005x       Wed Oct 22 19:12:56 2025 +0800  W06-P1: share URLof Github demo Vercel
 
 ```
 
-### W06-P2:
+### W06-P2: Supabase settings in Node.js, can connect to Supabase to get blogs data.
 
-#### =>
+#### => able to get 9 blogs data in Supabase
 
 ![](W06-p2-1.png)
 
-#### =>
+#### => connect parameters in Supabase
 
 ![](W06-p2-2.png)
 
-#### =>
+#### => server code in Supabase setting
 
 ![](W06-p2-3.png)
 
