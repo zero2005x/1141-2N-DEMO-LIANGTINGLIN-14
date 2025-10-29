@@ -1,7 +1,7 @@
 import React from "react";
 import { FaGlobe } from "react-icons/fa";
 import { FaMugSaucer } from "react-icons/fa6";
-import Wrapper from "../assets/wrappers/BlogsWrapper_14";
+import Wrapper from "../assets/wrappers/Blogs_14";
 const BlogStaticPage_14 = () => {
   return (
     <>

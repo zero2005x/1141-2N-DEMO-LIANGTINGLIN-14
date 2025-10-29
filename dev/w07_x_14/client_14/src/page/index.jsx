@@ -7,3 +7,5 @@ export { default as BlogNodePage_14 } from "./BlogNodePage_14";
 export { default as BookListPage_14 } from "./BookListPage_14";
 export { default as BlogSupaPage_14 } from "./BlogSupaPage_14";
 export { default as T11_ErrorExamplePage_14 } from "./tutorials/T11_ErrorExamplePage_14";
+export { default as T12_UseStateBasicPage_14 } from "./tutorials/T12_UseStateBasicPage_14";
+export { default as T21_UseEffectCodeExamplePage_14 } from "./tutorials/T21_UseEffectCodeExamplePage_14";

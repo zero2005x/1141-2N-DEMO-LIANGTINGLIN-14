@@ -1,8 +1,8 @@
 import { FaGlobe } from "react-icons/fa";
 import { FaMugSaucer } from "react-icons/fa6";
 import blogsData_14 from "../assets/data/blogData.json";
-import Blog_14 from "../components/Blog_14";
-import Wrapper from "../assets/wrappers/BlogsWrapper_14";
+import Blog_14 from "../components/Blogs_14";
+import Wrapper from "../assets/wrappers/Blogs_14";
 import { useState } from "react";
 
 const BlogLocalJsonPage_14 = () => {

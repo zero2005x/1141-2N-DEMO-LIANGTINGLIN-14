@@ -10,9 +10,9 @@ const Blog2_14 = ({ id, img, category, title, descrip, removeItem }) => {
         <span className="flex">
           {category}
           {category === "lifestyle" ? (
-            <FaMugSaucer className="ml-1" />
+            <FaMugSaucer className="ml-1" color="blue" size={14} />
           ) : (
-            <FaGlobe className="ml-1" />
+            <FaGlobe className="ml-1" color="blue" size={14} />
           )}
         </span>
         <h3>{title}</h3>

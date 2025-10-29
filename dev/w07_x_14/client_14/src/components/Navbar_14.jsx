@@ -150,6 +150,11 @@ const Navbar_14 = () => {
                         T12_UseStateBasicPage_14
                       </Link>
                     </li>
+                    <li className="menu-item">
+                      <Link to="/tutorials/t21_14">
+                        T21_UseEffectCodeExamplePage_14
+                      </Link>
+                    </li>
                   </ul>
                 </div>
               </li>

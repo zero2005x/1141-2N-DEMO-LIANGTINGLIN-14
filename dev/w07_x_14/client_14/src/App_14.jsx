@@ -13,6 +13,7 @@ import {
 import {
   T11_ErrorExamplePage_14,
   T12_UseStateBasicPage_14,
+  T21_UseEffectCodeExamplePage_14,
 } from "./page/tutorials";
 
 const router = createBrowserRouter([
@@ -65,6 +66,10 @@ const router = createBrowserRouter([
       {
         path: "T12_14",
         element: <T12_UseStateBasicPage_14 />,
+      },
+      {
+        path: "T21_14",
+        element: <T21_UseEffectCodeExamplePage_14 />,
       },
     ],
   },

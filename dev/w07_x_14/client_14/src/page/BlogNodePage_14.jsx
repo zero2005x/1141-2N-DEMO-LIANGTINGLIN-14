@@ -1,7 +1,7 @@
 import { FaGlobe } from "react-icons/fa";
 import { FaMugSaucer } from "react-icons/fa6";
-import Wrapper from "../assets/wrappers/BlogsWrapper_14";
-import Blog_14 from "../components/Blog_14";
+import Wrapper from "../assets/wrappers/Blogs_14";
+import Blog2_14 from "../components/Blog2_14";
 import { useState, useEffect } from "react";
 
 const api_url = "http://localhost:5000/api/blogs_14";
@@ -39,7 +39,7 @@ const BlogNodePage_14 = () => {
             {blogs_14.map((item) => {
               const { id, img, category, title, desc } = item;
               return (
-                <Blog_14
+                <Blog2_14
                   key={id}
                   id={id}
                   img={img}
