@@ -132,6 +132,9 @@ const Wrapper = styled.section`
     color: var(--primary-dark);
     letter-spacing: 1px;
   }
+  button {
+    padding: 4px 2px;
+  }
 `;
 
 export default Wrapper;
