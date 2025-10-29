@@ -2,7 +2,7 @@
 [Github URL for Vercel](https://github.com/zero2005x/114_2N_demo_vercel_liangtinglin)
 [Vercel URL](https://114-2-n-demo-vercel-liangtinglin.vercel.app/)
 
-### W02-P1: App_xx with 6 books
+### W02-P1: App_14 with 6 books
 
 #### => Chrome demo
 
@@ -15,7 +15,7 @@
 ![](w02-p1-3.png)
 
 ```
-2f4ea5f zero2005x       Wed Sep 24 20:18:41 2025 +0800  W02-P1: App_xx with 6 books
+2f4ea5f zero2005x       Wed Sep 24 20:18:41 2025 +0800  W02-P1: App_14 with 6 books
 ```
 
 ### W02-P2: refine code in W01-P1

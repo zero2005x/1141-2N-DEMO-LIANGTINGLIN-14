@@ -48,7 +48,7 @@ af1b374 zero2005x       Wed Oct 22 20:08:52 2025 +0800  W06-P3: Use Supabase cli
 
 ### W06-P4: Implement Tutorial T11_14 and T12_14
 
-#### => show code for T12_xx
+#### => show code for T12_14
 
 ![](w06-p4-1.png)
 

@@ -8,9 +8,9 @@
 cffb896 zero2005x       Wed Oct 8 18:51:20 2025 +0800   W04-P1: Create a express web server to show your info
 ```
 
-### W04-P2: Create blog_xx table with 3 data, implement route /api/blog_xx to return a json array with 3 data
+### W04-P2: Create blog_14 table with 3 data, implement route /api/blog_14 to return a json array with 3 data
 
-#### => SQL to create blog_xx table and 3 data
+#### => SQL to create blog_14 table and 3 data
 
 ![](w04-p2-1.png)
 
@@ -18,12 +18,12 @@ cffb896 zero2005x       Wed Oct 8 18:51:20 2025 +0800   W04-P1: Create a express
 
 ![](w04-p2-2.png)
 
-#### => implement route /api/blog_xx
+#### => implement route /api/blog_14
 
 ![](w04-p2-3.png)
 
 ```
-893ac84 zero2005x       Wed Oct 8 19:52:38 2025 +0800   W04-P2: Create blog_xx table with 3 data, implement route /api/blog_xx to return a json array with 3 data
+893ac84 zero2005x       Wed Oct 8 19:52:38 2025 +0800   W04-P2: Create blog_14 table with 3 data, implement route /api/blog_14 to return a json array with 3 data
 ```
 
 ### W04-P3: from client side to get json data from Node
