@@ -123,6 +123,9 @@ const Navbar_14 = () => {
                     <li className="menu-item">
                       <Link to="/localjson_14">W3-BlogLocalJson_14</Link>
                     </li>
+                    <li>
+                      <Link to="/localjson2_14">W3-BlogLocalJson2_14</Link>
+                    </li>
                     <li className="menu-item">
                       <Link to="/node_14">W4-BlogNode_14</Link>
                     </li>
