@@ -13,30 +13,22 @@
 ![](w10-p1-2.png)
 
 ```
-
+0c524e6 zero2005x       Wed Nov 19 19:37:45 2025 +0800  W10-P1: implement /exams/midterm/p1_xx for P1 in mid-1
 ```
 
-### W10-P2:
+### W10-P2: Implement /exams/miderm/p2_xx for P2 in mid-1
 
-#### =>
+#### => shown in Chrome
 
-![](W10-p2-1.png)
+![](w10-p2-1.png)
 
-#### =>
+#### => the relevant code for P2
 
-![](W10-p2-2.png)
+![](w10-p2-2.png)
 
-#### =>
+#### => Navbar_xx for root layout
 
-![](W10-p2-3.png)
-
-#### =>
-
-![](W10-p2-4.png)
-
-#### =>
-
-![](W10-p2-5.png)
+![](w10-p2-3.png)
 
 ```
 
