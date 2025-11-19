@@ -34,11 +34,11 @@
 
 ```
 
-### W10-P3:
+### W10-P3: upload to vercel
 
-#### =>
+#### => upload to vercel
 
-![](W10-p3.png)
+![](W10-p3-1.png)
 
 ```
 
