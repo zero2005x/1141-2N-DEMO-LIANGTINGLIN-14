@@ -31,7 +31,7 @@
 ![](w10-p2-3.png)
 
 ```
-
+19ad232 zero2005x       Wed Nov 19 20:49:51 2025 +0800  W10-P2: Implement /exams/miderm/p2_xx for P2 in mid-1
 ```
 
 ### W10-P3: upload to vercel
@@ -41,7 +41,7 @@
 ![](W10-p3-1.png)
 
 ```
-
+2ca375f zero2005x       Wed Nov 19 20:57:51 2025 +0800  W10-P3: upload to vercel
 ```
 
 ## W10-logs:
