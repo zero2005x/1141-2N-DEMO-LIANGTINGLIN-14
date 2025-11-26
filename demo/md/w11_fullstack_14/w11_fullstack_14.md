@@ -21,35 +21,29 @@
 ![](W11-p1-4.png)
 
 ```
-
+6801adf zero2005x       Wed Nov 26 19:25:43 2025 +0800  ### W11-P1: Implement route /api/shop_14/:category in server
 ```
 
-### W11-P2:
+### W11-P2:W11-P2: Implement /demo/shop_xx/node and /demo/shop/node/:category in client
 
-#### =>
+#### => show how to get category from params
 
-![](W11-p2-1.png)
+![](w11-p2-1.png)
 
-#### =>
+#### => show how to fetch category from the category main page
 
-![](W11-p2-2.png)
+![](w11-p2-2.png)
 
-#### =>
+#### => Chrome, show FetchShopByCategory_xx.jsx by click Mens
 
-![](W11-p2-3.png)
+![](w11-p2-3.png)
 
-```
+#### => relevant code for FetchShopByCategory_xx
 
-```
-
-### W11-P3:
-
-#### =>
-
-![](W11-p3-1.png)
+![](w11-p2-4.png)
 
 ```
-
++
 ```
 
 ## W11-logs:
