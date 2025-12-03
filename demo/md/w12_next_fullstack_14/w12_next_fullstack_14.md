@@ -80,7 +80,7 @@ sian-0018
 
 ## W12-logs:
 
-![](W12-logs.png)
+![](w12-logs.png)
 
 ```
 
