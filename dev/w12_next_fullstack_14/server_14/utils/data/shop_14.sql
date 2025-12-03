@@ -94,17 +94,8 @@ VALUES (
         25.00,
         '/images/midterm/hats/brown-cowboy.png',
         1
-    );
-
-INSERT INTO
-    shop2_14 (
-        pid,
-        pname,
-        price,
-        img_url,
-        cat_id
-    )
-VALUES (
+    ),
+    (
         10,
         'Blue Tank',
         20.00,
@@ -152,4 +143,137 @@ VALUES (
         55.00,
         '/images/midterm/womens/yellow-track-suit.png',
         4
+    ),
+    (
+        17,
+        'Black Shearling',
+        125.00,
+        '/images/midterm/jackets/black-shearling.png',
+        2
+    ),
+    (
+        18,
+        'Blue Jean Jacket',
+        90.00,
+        '/images/midterm/jackets/blue-jean-jacket.png',
+        2
+    ),
+    (
+        19,
+        'Brown Shearling',
+        165.00,
+        '/images/midterm/jackets/brown-shearling.png',
+        2
+    ),
+    (
+        20,
+        'Brown Trench',
+        185.00,
+        '/images/midterm/jackets/brown-trench.png',
+        2
+    ),
+    (
+        21,
+        'Grey Jean Jacket',
+        90.00,
+        '/images/midterm/jackets/grey-jean-jacket.png',
+        2
+    ),
+    (
+        22,
+        'Adidas NMD',
+        220.00,
+        '/images/midterm/sneakers/adidas-nmd.png',
+        3
+    ),
+    (
+        23,
+        'Black Converse',
+        110.00,
+        '/images/midterm/sneakers/black-converse.png',
+        3
+    ),
+    (
+        24,
+        'Nike Brown',
+        160.00,
+        '/images/midterm/sneakers/nike-brown.png',
+        3
+    ),
+    (
+        25,
+        'Nike Funky',
+        190.00,
+        '/images/midterm/sneakers/nike-funky.png',
+        3
+    ),
+    (
+        26,
+        'Nike Red',
+        160.00,
+        '/images/midterm/sneakers/nikes-red.png',
+        3
+    ),
+    (
+        27,
+        'Timberlands',
+        200.00,
+        '/images/midterm/sneakers/timberlands.png',
+        3
+    ),
+    (
+        28,
+        'White Nike High Tops',
+        160.00,
+        '/images/midterm/sneakers/white-nike-high-tops.png',
+        3
+    ),
+    (
+        29,
+        'Yeezy',
+        280.00,
+        '/images/midterm/sneakers/yeezy.png',
+        3
+    ),
+    (
+        30,
+        'Camo Vest',
+        325.00,
+        '/images/midterm/mens/camo-vest.png',
+        5
+    ),
+    (
+        31,
+        'Floral Shirt',
+        20.00,
+        '/images/midterm/mens/floral-shirt.png',
+        5
+    ),
+    (
+        32,
+        'Long Sleeve',
+        25.00,
+        '/images/midterm/mens/long-sleeve.png',
+        5
+    ),
+    (
+        33,
+        'Pink Shirt',
+        25.00,
+        '/images/midterm/mens/pink-shirt.png',
+        5
+    ),
+    (
+        34,
+        'Polka Dot Shirt',
+        25.00,
+        '/images/midterm/mens/polka-dot-shirt.png',
+        5
+    ),
+    (
+        35,
+        'Roll Up Jean Shirt',
+        40.00,
+        '/images/midterm/mens/roll-up-jean-shirt.png',
+        5
     );
