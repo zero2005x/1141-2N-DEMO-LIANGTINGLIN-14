@@ -1,6 +1,10 @@
+#### => Github repo and Vercel URL
+
 [Github URL](https://github.com/zero2005x/1141-2N-DEMO-LIANGTINGLIN-14)
 [Github URL for Vercel](https://github.com/zero2005x/114_2N_demo_vercel_liangtinglin)
 [Vercel URL](https://114-2-n-demo-vercel-liangtinglin.vercel.app/)
+[Gitbub Next URL](https://github.com/zero2005x/1141_2n_next_liangtinglin_14)
+[Vercel Next URL](https://1141-2n-next-liangtinglin-14.vercel.app/)
 
 ### W13-P1: Demo prop drilling
 
@@ -27,52 +31,18 @@
 ![](W13-p2-2.png)
 
 ```
-
+1a16723 zero2005x       Wed Dec 10 20:02:07 2025 +0800  W13-P2: Context API demo for W13-P1
 ```
 
-#### => Github repo and Vercel URL
+### W13-P3: Move W7 BlogJson2 page to the route /demo/blog_xx/localjson2_xx
 
-[Gitbub Next URL](https://github.com/zero2005x/1141_2n_next_liangtinglin_14)
-[Vercel Next URL](https://1141-2n-next-liangtinglin-14.vercel.app/)
+#### => Chrome, show the result
 
-![](W13-p2-5.png)
+![](w13-p3-1.png)
 
-#### => Share to teacher and TA
+#### => relevant code
 
-htchung@gms.tku.edu.tw
-sian-0018
-
-![](W13-p2-6.png)
-
-```
-
-```
-
-### W13-P3: Implenment /demo/shop2_xx/supabase to fetch products from Supabase
-
-#### => use SQL to get category2_xx data
-
-![](W13-p3-1.png)
-
-#### => use SQL to get shop2_xx data
-
-![](W13-p3-2.png)
-
-#### => set foreign key
-
-![](W13-p3-3.png)
-
-#### => set RLS policies for public access for all CRUD
-
-![](W13-p3-4.png)
-
-#### => Chrome -- local
-
-![](W13-p3-5.png)
-
-#### => Chrome -- Vercel
-
-![](W13-p3-6.png)
+![](w13-p3-2.png)
 
 ```
 
