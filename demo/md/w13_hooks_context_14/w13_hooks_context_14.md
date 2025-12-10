@@ -13,26 +13,22 @@
 ![](w13-p1-2.png)
 
 ```
-
+886cedd zero2005x       Wed Dec 10 19:34:16 2025 +0800  W13-P1: Demo prop drilling
 ```
 
-### W13-P2: Deploy code to Vercel
+### W13-P2: Context API demo for W13-P1
 
-#### => npm run build
+#### => Chrome, show PeopleContext.Provider by remove last person
 
 ![](W13-p2-1.png)
 
-#### => npm start
+#### => relevant code
 
 ![](W13-p2-2.png)
 
-#### => Vercel, add environment variables
+```
 
-![](W13-p2-3.png)
-
-#### => Vercel homepage success
-
-![](W13-p2-4.png)
+```
 
 #### => Github repo and Vercel URL
 
