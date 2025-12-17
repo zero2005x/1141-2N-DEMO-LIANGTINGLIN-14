@@ -31,7 +31,7 @@
 ![](W14-p2-2.png)
 
 ```
-
+9db917a zero2005x       Wed Dec 17 20:56:33 2025 +0800   W14-P2: Refine W14-P1 by using BlogList2_14
 ```
 
 ### W14-P3: Implement /demo/grocery_14 for Grocery_14
