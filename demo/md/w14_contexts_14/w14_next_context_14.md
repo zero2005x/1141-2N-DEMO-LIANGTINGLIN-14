@@ -6,7 +6,7 @@
 [Gitbub Next URL](https://github.com/zero2005x/1141_2n_next_liangtinglin_14)
 [Vercel Next URL](https://1141-2n-next-liangtinglin-14.vercel.app/)
 
-### W14-P1: Use Context for Blogs_xx
+### W14-P1: Use Context for Blogs_14
 
 #### => Chrome, show blogs_xx in Content component
 
@@ -17,16 +17,16 @@
 ![](W14-p1-2.png)
 
 ```
-
+518f300 zero2005x       Wed Dec 17 19:45:28 2025 +0800  W14-P1: Use Context for Blogs_14
 ```
 
-### W14-P2:
+### W14-P2: Refine W14-P1 by using BlogList2_14
 
-#### =>
+#### => Chrome, show BlogList2_xx, Blog2_xx component
 
 ![](W14-p2-1.png)
 
-#### =>
+#### => relevant code
 
 ![](W14-p2-2.png)
 
@@ -34,13 +34,13 @@
 
 ```
 
-### W14-P3:
+### W14-P3: Implement /demo/grocery_14 for Grocery_14
 
-#### =>
+#### => Chrome, add two data, and show in components
 
 ![](W14-p3-1.png)
 
-#### =>
+#### => relevant code
 
 ![](W14-p3-2.png)
 
