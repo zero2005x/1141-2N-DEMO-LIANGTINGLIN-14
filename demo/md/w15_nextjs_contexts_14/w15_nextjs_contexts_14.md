@@ -17,18 +17,12 @@
 ![](w15-p1-2.png)
 
 ```
-
+f633623 zero2005x       Wed Dec 24 19:45:11 2025 +0800  W15-P1: Create tables category2_xx, shop2_xx, user2_xx, cart2_xx, and put 5 products into a cart for the user of your id
 ```
 
-### W15-P2:
+### W15-P2: Implement route /api/shop_xx/cart/:uid to get the info as the SQL in W15-P1
 
-#### =>
-
-![](W15-p2-1.png)
-
-#### =>
-
-![](W15-p2-2.png)
+![](w15-p2-1.png)
 
 ```
 
