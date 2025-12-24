@@ -25,18 +25,18 @@ f633623 zero2005x       Wed Dec 24 19:45:11 2025 +0800  W15-P1: Create tables ca
 ![](w15-p2-1.png)
 
 ```
-
+fc637f1 zero2005x       Wed Dec 24 20:12:56 2025 +0800  W15-P2: Implement route /api/shop_xx/cart/:uid to get the info as the SQL in W15-P1
 ```
 
-### W15-P3:
+### W15-P3: Use localStorage
 
-#### =>
+#### => Implement setLocalStorage
 
-![](W15-p3-1.png)
+![](w15-p3-1.png)
 
-#### =>
+#### => Implement getLocalStorage
 
-![](W15-p3-2.png)
+![](w15-p3-2.png)
 
 ```
 
